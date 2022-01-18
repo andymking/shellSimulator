@@ -1,4 +1,4 @@
-# COMP 211 Final Project: Tar Heel Shell
+# COMP 211 Final Project: Tar Heel Shell Simulator
 Now that you've familiarized yourself with the command line interface over the course of the semester, you will have the opportunity to build your own simple "Tar Heel" shell! But don't fret - when we say simple, we mean simple. The shell specified in this assignment is merely capable of changing directories and executing system programs such as `pwd` and `ls`. The goal of this assignment is to familiarize you with system-related library functions and to give you the pride of knowing that something you've been working with all semester is something that you could have built all along.
 
 #### Background Reading
